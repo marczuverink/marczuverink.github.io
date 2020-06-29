@@ -1,1 +1,1 @@
-Fedora 32
+Fedora 32 setup info:
